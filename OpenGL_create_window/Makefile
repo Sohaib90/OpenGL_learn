@@ -1,5 +1,5 @@
 build:
-	g++ main.cpp -o CreateWindow -lglut -lGLU -lGL -lglfw
+	g++ main.cpp -o CreateWindow -lGLEW -lglut -lGLU -lGL -lglfw 
 
 run:
 	./CreateWindow
