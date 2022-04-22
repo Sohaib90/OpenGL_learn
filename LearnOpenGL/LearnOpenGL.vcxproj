@@ -155,7 +155,9 @@
     <ClInclude Include="Dependecies\GLFW\include\GLFW\glfw3native.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="Dependecies\GLFW\lib-vc2022\glfw3.dll" />
+    <None Include="res\shaders\basic.shader" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="Dependecies\GLFW\lib-vc2022\glfw3.lib" />

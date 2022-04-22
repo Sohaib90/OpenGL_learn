@@ -38,6 +38,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Dependecies\GLFW\lib-vc2022\glfw3.dll" />
+    <None Include=".gitignore" />
+    <None Include="res\shaders\basic.shader" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="Dependecies\GLFW\lib-vc2022\glfw3.lib" />
